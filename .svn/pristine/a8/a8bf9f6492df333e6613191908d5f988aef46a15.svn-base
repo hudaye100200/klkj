@@ -1,0 +1,4 @@
+Cypress.pdf filter=lfs diff=lfs merge=lfs -text
+test.docx filter=lfs diff=lfs merge=lfs -text
+sha.csv filter=lfs diff=lfs merge=lfs -text
+issue.png filter=lfs diff=lfs merge=lfs -text
