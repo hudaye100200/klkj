@@ -4,3 +4,4 @@ sha.csv filter=lfs diff=lfs merge=lfs -text
 issue.png filter=lfs diff=lfs merge=lfs -text
 yingyezhizhao.png filter=lfs diff=lfs merge=lfs -text
 eee.jpg filter=lfs diff=lfs merge=lfs -text
+abba.png filter=lfs diff=lfs merge=lfs -text
