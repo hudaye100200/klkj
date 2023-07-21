@@ -7,3 +7,4 @@ eee.jpg filter=lfs diff=lfs merge=lfs -text
 abba.png filter=lfs diff=lfs merge=lfs -text
 test.sql filter=lfs diff=lfs merge=lfs -text
 foruda.xlsx filter=lfs diff=lfs merge=lfs -text
+hudaye.png filter=lfs diff=lfs merge=lfs -text
