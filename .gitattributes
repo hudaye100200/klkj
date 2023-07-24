@@ -8,3 +8,4 @@ abba.png filter=lfs diff=lfs merge=lfs -text
 test.sql filter=lfs diff=lfs merge=lfs -text
 foruda.xlsx filter=lfs diff=lfs merge=lfs -text
 hudaye.png filter=lfs diff=lfs merge=lfs -text
+hu_self.sql filter=lfs diff=lfs merge=lfs -text
